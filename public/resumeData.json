@@ -1,0 +1,21 @@
+{
+    "main" :{
+        "name" : "Muhamad fadhil",
+        "description" : "Im a Programmer",
+        "image":"profilepic.jpg",
+        "github" : "https://github.com/fadhil9",
+        "project" : "https://github.com/fadhil9",
+        "bio":"Ini adalah section biografi aku",
+        "contactmessage":"Hello, here I am",
+        "email": "myemail@gmail.com",
+        "phone": "+62858-4014-7605",
+        "address":{
+            "street":"Jl pekapuran",
+            "city":"Depok",
+            "state":"West Java",
+            "zip": "16024"
+        },
+        "website": "https://github.com/fadhil9",
+        "resumedownload":"https://github.com/fadhil9"
+    }
+}
