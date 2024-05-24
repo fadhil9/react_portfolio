@@ -16,6 +16,90 @@
             "zip": "16024"
         },
         "website": "https://github.com/fadhil9",
-        "resumedownload":"https://github.com/fadhil9"
+        "resumedownload":"https://github.com/fadhil9",
+        "social":[
+            {
+            "name": "facebook",
+            "url": "https://github.com/mutiarahmatun",
+            "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/mutia-rahmatun-husna/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/mutia.rahmatun",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/mutiarahmatun",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Indraprasta PGRI",
+                "degree": "Bachelor degree of Computer Science",
+                "graduated": "June 2025",
+                "description" : "I am joining gemastik competition"
+            },
+            {
+                "school": "SMKN 52 Jakarta",
+                "degree": "technic",
+                "graduated": "May 2020",
+                "description": "I am joining computer olympiad"
+            }
+        ],
+        "work": [
+            {
+                "company" : "PT. Linimuda",
+                "title" : "Software Engineer",
+                "years": "April 2020 - February 2022",
+                "description": "Creating a website and maintenance"
+            }, {
+                "company": "My Skill Id",
+                "title": "Frontend Engineer",
+                "years": "February 2022 - present",
+                "description": "Creating a mobile application"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "Java",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+            {
+                "name": "VueJS",
+                "level": "88%"
+            },
+            {
+                "name": "Kotlin",
+                "level": "95%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            }
+        ]
     }
+
 }
